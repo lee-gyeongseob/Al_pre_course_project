@@ -7,5 +7,4 @@
 ## 3주차 과제(2020.06.07)
 * [학습률 최적화, 군집 분석 구현, Cost Function 구현](https://colab.research.google.com/drive/1WozIoVMaQX2lyHzEKUAgujDyPiVxiJtE)
 ## 4주차 과제(2020.06.12)
-* [딥러닝 용어 정리,클론 코딩,딥러닝 순전파&역전파 계산]
-(https://colab.research.google.com/drive/12zZjqXi_cAxw4GtZ1BrJCEr_hMb1HJLx#scrollTo=ixEtDe6_uGgI)
+* [딥러닝 용어 정리,클론 코딩,딥러닝 순전파&역전파 계산](https://colab.research.google.com/drive/12zZjqXi_cAxw4GtZ1BrJCEr_hMb1HJLx#scrollTo=ixEtDe6_uGgI)
